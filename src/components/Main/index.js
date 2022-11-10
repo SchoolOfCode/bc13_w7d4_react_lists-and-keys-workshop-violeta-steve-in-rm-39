@@ -16,7 +16,7 @@ function Main() {
 					<Post
 						key={post.postId}
 						title={post.title}
-						date={post.data}
+						date={post.date}
 						author={post.author}
 						text={post.text}
 						highlights={post.highlights}
